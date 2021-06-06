@@ -31,6 +31,8 @@
 *.out
 *.app
 
+# hamada difinitions
 .vscode
 .DS_Store
 data
+Calibration.txt
