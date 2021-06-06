@@ -17,5 +17,6 @@ void rootlogon(){
     loadMacro("src/calibration/ABC.C");
     loadMacro("src/main_mesurement/Na_3coinci_th1.C");
     loadMacro("src/main_mesurement/Na_AB_th2.C");
+    loadMacro("src/main_mesurement/Na_ABC_th3.C");
 
 }
