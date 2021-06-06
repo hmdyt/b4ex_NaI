@@ -21,3 +21,30 @@
 ```
 root [0] Na_AB_th2()
 ```
+
+## data
+<pre>
+data
+ |-- day1
+ |-- day2
+ |-- day3
+ ...
+</pre>
+実験データを格納する。
+
+## src
+<pre>
+src
+ |-- calibration
+ |-- main_mesurement
+</pre>
+ROOTのマクロを格納する。
+
+### calibration
+- キャリブレーションに用いるマクロを格納る
+- ADC-Energy 直線のパラメータを返すところまでをキャリブレーションに用いる関数とする
+- github導入前に書いたキメラがある
+
+### main_mesurement
+- 本測定の解析に用いるマクロが入っている
+ 
