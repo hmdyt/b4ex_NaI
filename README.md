@@ -4,17 +4,17 @@
 ## Usage
 - cloneする
 ```
-~ $ git clone https://github.com/hmdyt/b4ex_NaI
+[usr@local ~]$ git clone https://github.com/hmdyt/b4ex_NaI
 ```
 
 - data 以下に実験データを置く
 ```
-b4ex_NaI $ cp -r /path/to/data .
+[usr@local b4ex_NaI]$ cp -r /path/to/data .
 ```
 
 - ./ (cloneしたフォルダの一番上)でrootを実行
 ```
-b4ex_NaI $ root -l
+[usr@local b4ex_NaI] root -l
 ```
 
 - 任意の関数を実行
