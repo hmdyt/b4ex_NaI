@@ -9,7 +9,7 @@ TH1D* make_hists_by_rootfile_forA(
     )
     {
     // set file path
-    TString FILEPATH = "~/jupyter/b4ex/nai_2021_05_27/b4_2021_0527/";
+    TString FILEPATH = "data/b4_2021_0527/";
 
     // open root file
     auto file = TFile::Open(FILEPATH + file_name);
@@ -58,7 +58,7 @@ TH1D* make_hists_by_rootfile_forA(
 
 vector<Double_t> fit_A_Na(){
 	// data file path
-	const TString data_dir = "~/jupyter/b4ex/nai_2021_05_27/b4_2021_0603/";
+	const TString data_dir = "data/b4_2021_0603/";
 
 	// data filename
 	const TString filename1 = "Na_run01";
@@ -685,7 +685,7 @@ vector<Double_t> B(){
     )
     {
     // set file path
-    TString FILEPATH = "~/jupyter/b4ex/nai_2021_05_27/b4_2021_0527/";
+    TString FILEPATH = "data/b4_2021_0527/";
 
     // open root file
     auto file = TFile::Open(FILEPATH + file_name);
