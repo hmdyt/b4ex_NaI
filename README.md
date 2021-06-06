@@ -3,10 +3,9 @@
 
 ## Usage
 - cloneする
-
-'''
+```
 ~ $ git clone https://github.com/hmdyt/b4ex_NaI
-'''
+```
 
 - data 以下に実験データを置く
 '''
