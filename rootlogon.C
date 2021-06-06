@@ -16,4 +16,6 @@ void rootlogon(){
     cout << "executed rootlogon" << endl;
     loadMacro("src/calibration/ABC.C");
     loadMacro("src/main_mesurement/Na_3coinci_th1.C");
+    loadMacro("src/main_mesurement/Na_AB_th2.C");
+
 }
