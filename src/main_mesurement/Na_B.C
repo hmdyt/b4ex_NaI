@@ -9,9 +9,9 @@ void Na_B(){
     make_Na_histogram(hist, "B");
 
     // fetch calibration para
-    map<string, vector<Double_t>> calb_para = ABC();
-    Double_t a = calb_para["B"][0];
-    Double_t b = calb_para["B"][0];
+    vector<Double_t> calb_para = B();
+    Double_t a = calb_para[0];
+    Double_t b = calb_para[0];
 
     // arrange Xaxis scale
     auto calc_kev = [](Double_t x, Double_t a, Double_t b){ return (x - b) / a; };

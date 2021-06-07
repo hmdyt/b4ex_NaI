@@ -45,7 +45,10 @@ void Na_3coinci_th1(){
     // use calibration
     // def inversed function
     // keV = (ADC - b) / a
-    map<string, vector<Double_t>> cal = ABC();
+    map<string, vector<Double_t>> cal;
+    cal["A"] = A();
+    cal["B"] = B();
+    cal["C"] = C();
     auto calc_kev = [](Double_t x, Double_t a, Double_t b){ return (x - b) / a; };
 
     // arrange each hist's x axis limit
