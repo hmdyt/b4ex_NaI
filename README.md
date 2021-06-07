@@ -46,7 +46,15 @@ ROOTのマクロを格納する。
 
 ### main_mesurement
 - 本測定の解析に用いるマクロが入っている
- 
+
+## img
+<pre>
+src
+ |-- calibration
+ |-- main_mesurement
+</pre>
+- hist, graphの保存先(svg file)
+
 ## rootlogon.C
 - root起動時に読み込むマクロを列挙している
 - 新しいマクロを追加するときに登録することを忘れるな
