@@ -68,7 +68,10 @@ void Na_AB_th2(){
 	}
 	
 	// calibration
-	map<string, vector<Double_t>> cal = ABC();
+	map<string, vector<Double_t>> cal;
+    cal["A"] = A();
+    cal["B"] = B();
+    cal["C"] = C();
 	auto calc_kev = [](Double_t x, Double_t a, Double_t b){ return (x - b) / a; };
 	hist->GetXaxis()->SetLimits(
 		calc_kev(x_bin_min, cal["A"][0], cal["A"][1]),
