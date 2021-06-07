@@ -15,9 +15,11 @@ void loadMacro(const TString macro_name){
 void rootlogon(){
     cout << "executed rootlogon" << endl;
     loadMacro("src/calibration/ABC.C");
-    loadMacro("src/main_mesurement/make_Na_histogram.C")
+    loadMacro("src/main_mesurement/make_Na_histogram.C");
+    loadMacro("src/main_mesurement/Na_A.C");
+    loadMacro("src/main_mesurement/Na_B.C");
+    loadMacro("src/main_mesurement/Na_C.C");
     loadMacro("src/main_mesurement/Na_3coinci_th1.C");
     loadMacro("src/main_mesurement/Na_AB_th2.C");
     loadMacro("src/main_mesurement/Na_ABC_th3.C");
-
 }
