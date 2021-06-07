@@ -49,6 +49,7 @@ vector<Double_t> make_C_kev_adc(){
     axis->Draw("AXIS");
     g->Draw("P SAME");
     c1->Draw();
+	c1->SaveAs("img/calibration/C_prop.svg");
 
     // ADC = a * keV + b
     // res -> {a, b}

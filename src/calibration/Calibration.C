@@ -39,6 +39,7 @@ vector<Double_t> Calibration(){
 	axis->Draw("AXIS");
 	g1->Draw("P SAME");
     c1->Draw();
+	c1->SaveAs("img/calibration/B_prop.svg");
 
 	//ADC = a * keV + b
 	vector<Double_t> res = {a, b};
