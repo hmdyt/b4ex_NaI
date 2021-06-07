@@ -1,5 +1,6 @@
 void make_Na_histogram(TH1D* hist, TString detector_char){
     // set file paras and etc.
+    // when you earn new mesurement data file, ADD data file above
     TString FILEPATH = "data/b4_2021_0603/";
     vector<TString> tar_data_path = {
         "Na_run04_change.root",
