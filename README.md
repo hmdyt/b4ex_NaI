@@ -1,5 +1,6 @@
 # b4ex_NaI
-2021年度B4実験 テーマ:NaI の解析プログラム
+2021年度B4実験 テーマ:NaI の解析プログラム  
+結果は[wiki](https://github.com/hmdyt/b4ex_NaI/wiki)に簡単にまとめている
 
 ## Usage
 - cloneする
