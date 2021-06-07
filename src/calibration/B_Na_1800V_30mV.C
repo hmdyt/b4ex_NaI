@@ -57,4 +57,8 @@ void B_Na_1800V_30mV(){
 	ofs << x1 << " " << y1 << " " << a1 << "\n";
 	ofs << x2 << " " << y2 << " " << a2 << "\n";
 
+	// save as svg
+	TString hist1_title = hist1->GetTitle();
+	c1->SaveAs("img/calibration/" + hist1_title + ".svg");
+
 }
