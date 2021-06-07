@@ -22,5 +22,9 @@ void Na_A(){
 
     // TODO: write fitting macro above
 
+    // draw and save
+    auto c = new TCanvas();
     hist->Draw();
+    c->Draw();
+    c->SaveAs("img/main_mesurement/Na_A.svg");
 }
