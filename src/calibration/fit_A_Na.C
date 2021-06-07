@@ -69,6 +69,10 @@ vector<Double_t> fit_A_Na(){
 	hist_PE->Draw();
 	c1->Draw();
 
+	// save as svg
+	TString hist_PE_title = hist_PE->GetTitle();
+	c1->SaveAs("img/calibration/" + hist_PE_title + ".svg");
+
 	// fetch fitting function's parameters
 	Double_t PE_mean = func->GetParameter(1);
 	Double_t PE_sigma = func->GetParameter(2);
@@ -87,6 +91,10 @@ vector<Double_t> fit_A_Na(){
 	hist_CE->Fit(func_CE, "R");
 	hist_CE->Draw();
 	c2->Draw();
+
+	// save as svg
+	TString hist_CE_title = hist_CE->GetTitle();
+	c2->SaveAs("img/calibration/" + hist_CE_title + ".svg");
 
     // return
     // {kev, kev_error, mean, mean_error}

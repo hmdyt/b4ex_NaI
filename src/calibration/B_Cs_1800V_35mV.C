@@ -39,5 +39,8 @@ void B_Cs_1800V_35mV(){
 
 	ofs << x << " " << y << " " << a << "\n";
 
+	// save as svg
+	TString hist1_title = hist1->GetTitle();
+	c1->SaveAs("img/calibration/" + hist1_title + ".svg");
 
 }

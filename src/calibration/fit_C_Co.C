@@ -42,6 +42,10 @@ vector<vector<Double_t>> fit_C_Co(){
     hist->Draw();
     c1->Draw();
 
+    // save as svg
+	TString hist_title = hist->GetTitle();
+	c1->SaveAs("img/calibration/" + hist_title + ".svg");
+
     // return
     // res -> {{kev}, {mean}, {mean error}}
     vector<Double_t> kev = {1137 * 1000, 1333 * 1000};

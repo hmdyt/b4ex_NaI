@@ -31,7 +31,13 @@ vector<Double_t> fit_A_Cs(){
     hist->Fit(f, "R");
 
     // draw
+    auto c = new TCanvas();
     hist->Draw();
+    c->Draw();
+    
+    // save as svg
+	TString hist_title = hist->GetTitle();
+	c->SaveAs("img/calibration/" + hist_title + ".svg");
 
     // return
     // {kev, kev_error, mean, mean_error}

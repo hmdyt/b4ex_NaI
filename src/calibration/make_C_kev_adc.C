@@ -1,8 +1,5 @@
 
 vector<Double_t> make_C_kev_adc(){
-    // initialize TCanvas
-    TCanvas* c1 = new TCanvas();
-
     // initialize TGraph data
     vector<Double_t> kevs;
     vector<Double_t> kevs_error;
@@ -42,6 +39,8 @@ vector<Double_t> make_C_kev_adc(){
     // execute fitting
     g->Fit(f, "R");
     
+    // initialize TCanvas
+    TCanvas* c1 = new TCanvas();
 
     // draw TGraph with axis-histgram
     TH2D* axis = new TH2D("axis", "keV - ADC value; Energy [eV]; ADC value", 0, 0, 1400*1000, 0, 0, 1600);
@@ -49,6 +48,7 @@ vector<Double_t> make_C_kev_adc(){
     axis->Draw("AXIS");
     g->Draw("P SAME");
     c1->Draw();
+	c1->SaveAs("img/calibration/C_prop.svg");
 
     // ADC = a * keV + b
     // res -> {a, b}

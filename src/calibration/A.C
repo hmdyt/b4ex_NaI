@@ -54,6 +54,7 @@ vector<Double_t> A(){
     TCanvas* c = new TCanvas();
     g->Draw("AP");
     c->Draw();
+    c->SaveAs("img/calibration/A_prop.svg");
 
     // ADC = a * keV + b
     // res -> {a, b}

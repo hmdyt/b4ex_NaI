@@ -89,6 +89,16 @@ vector<vector<Double_t>> fit_A_Co(){
     hist_area1_r->Draw();
     c4->Draw();
 
+    // save as svg
+    TString hist_area1_title = hist_area1->GetTitle();
+    TString hist_area4_title = hist_area4->GetTitle();
+    TString hist_area1_l_title = hist_area1_l->GetTitle();
+    TString hist_area1_r_title = hist_area1_r->GetTitle();
+    c1->SaveAs("img/calibration/" + hist_area1_title + ".svg");
+    c2->SaveAs("img/calibration/" + hist_area4_title + ".svg");
+    c3->SaveAs("img/calibration/" + hist_area1_l_title + ".svg");
+    c4->SaveAs("img/calibration/" + hist_area1_r_title + ".svg");
+
     // return
     // res = {{kevs}, {kev_errors}, {means}, {mean_errors}}
     vector<Double_t> kevs = {1119 * 1000, 963.2 * 1000};

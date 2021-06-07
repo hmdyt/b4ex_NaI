@@ -42,6 +42,10 @@ vector<vector<Double_t>> fit_C_Na(){
     hist->Draw();
     c1->Draw();
 
+    // save as svg
+	TString hist_title = hist->GetTitle();
+	c1->SaveAs("img/calibration/" + hist_title + ".svg");
+    
     // return
     // res -> {{kev}, {mean}, {mean error}}
     vector<Double_t> kev = {511 * 1000, 1275 * 1000};
