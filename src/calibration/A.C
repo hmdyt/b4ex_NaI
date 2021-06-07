@@ -47,7 +47,7 @@ vector<Double_t> A(){
     g->Fit(f, "R");
     
     // draw TGraph with axis-histgram
-    TH2D* axis = new TH2D("axis", "keV - ADC value; Energy [eV]; ADC value", 0, 0, 1400*1000, 0, 0, 1600);
+    TH2D* axis = new TH2D("axis", "keV - ADC value; Energy [eV]; ADC value", 0, 0, 1400*1000, 0, 0, 1800);
     axis->SetStats(0);
     axis->Draw("AXIS");
     g->Draw("P SAME");
