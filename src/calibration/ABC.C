@@ -414,7 +414,7 @@ TH1D* make_hist(TString filename = "A_Co_1900mV_24V", TString Xaxis_name = "ADC 
 	//int bin_max = 3500;
 	//const TString branch = "area2";
 
-	const TString data_dir = "data/nai_2021_05_27/b4_2021_0527/";
+	const TString data_dir = "data/b4_2021_0527/";
 
 	//TFile *file = TFile::Open("A_Co_1900V_24mV.root");
 	auto file = TFile::Open(data_dir + filename +"_change" + ".root");
