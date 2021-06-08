@@ -3,7 +3,7 @@ vector<Double_t> Na_B(){
     int bin_num = 1000;
     Double_t bin_min = 0;
     Double_t bin_max = 3000;
-    TH1D* hist = new TH1D("hist", "Na at detector B ;Energy[keV] ;Counts", bin_num, bin_min, bin_max);
+    TH1D* hist = new TH1D("hist", "Na at detector B ;Energy[eV] ;Counts", bin_num, bin_min, bin_max);
 
     // fill hist
     make_Na_histogram(hist, "B");

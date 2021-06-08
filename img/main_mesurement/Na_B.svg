@@ -5,7 +5,7 @@ img/main_mesurement/Na_B.svg
 </title>
 <desc>
 Creator: ROOT Version 6.22/09
-CreationDate: Tue Jun  8 19:07:54 2021</desc>
+CreationDate: Tue Jun  8 19:24:22 2021</desc>
 <defs>
 </defs>
 <rect x="0.5" y="0" width="566.929" height="384.18" fill="white"/>
@@ -112,7 +112,7 @@ CreationDate: Tue Jun  8 19:07:54 2021</desc>
 <text xml:space="preserve" x="531.691" y="338.695" fill="black" font-size="8.72403" font-family="Helvetica">3</text>
 <text xml:space="preserve" x="518.696" y="345.193" fill="black" font-size="12.836" font-family="Helvetica">10</text>
 <text xml:space="preserve" x="512.198" y="345.193" fill="black" font-size="12.836" font-family="Times">&#0215;</text>
-<text xml:space="preserve" x="440.723" y="370.372" fill="black" font-size="12.836" font-family="Helvetica">Energy[keV] </text>
+<text xml:space="preserve" x="446.408" y="370.372" fill="black" font-size="12.836" font-family="Helvetica">Energy[eV] </text>
 <path d="M57.1929,345.762v -307.344" fill="none" stroke="black"/>
 <path d="M70.7992,345.762h -13.6063" fill="none" stroke="black"/>
 <path d="M63.9961,334.053h -6.80315" fill="none" stroke="black"/>
