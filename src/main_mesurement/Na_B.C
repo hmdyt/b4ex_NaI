@@ -16,13 +16,13 @@ vector<Double_t> Na_B(){
     // arrange Xaxis scale
     auto calc_kev = [](Double_t x, Double_t a, Double_t b){ return (x - b) / a; };
     hist->GetXaxis()->SetLimits(
-        calc_kev(bin_min, a, b) * 1000,
-        calc_kev(bin_max, a, b) * 1000
+        calc_kev(bin_min, a, b),
+        calc_kev(bin_max, a, b)
     );
 
     //fitting
-    const double FitMin = 200000;
-    const double FitMax = 300000;
+    const double FitMin = 200 * 1000;
+    const double FitMax = 300 * 1000;
 
     TF1 *func = new TF1("func", "gaus", FitMin, FitMax);
 
@@ -31,8 +31,8 @@ vector<Double_t> Na_B(){
     func->SetParName(2, "Sigma");
 
     func->SetParameter(0, 80);
-    func->SetParameter(1, 250000);
-    func->SetParameter(2, 40000);
+    func->SetParameter(1, 250 * 1000);
+    func->SetParameter(2, 40 * 1000);
 
 	func->SetLineColor(kRed);
 

@@ -54,8 +54,8 @@ void B_Co_1800V_30mV(){
 	Double_t a1 = func1->GetParError(1);
 	Double_t a2 = func2->GetParError(1);
 	
-	Double_t x1 = 1173.;
-	Double_t x2 = 1333.;
+	Double_t x1 = 1173*1000;
+	Double_t x2 = 1333*1000;
 
 
 	ofs << x1 << " " << y1 << " "  << a1 << "\n";
