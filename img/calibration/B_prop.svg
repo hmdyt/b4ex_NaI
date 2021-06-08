@@ -5,7 +5,7 @@ img/calibration/B_prop.svg
 </title>
 <desc>
 Creator: ROOT Version 6.22/09
-CreationDate: Tue Jun  8 15:09:50 2021</desc>
+CreationDate: Tue Jun  8 19:07:53 2021</desc>
 <defs>
 </defs>
 <rect x="0.5" y="0" width="566.929" height="384.18" fill="white"/>
@@ -45,7 +45,6 @@ CreationDate: Tue Jun  8 15:09:50 2021</desc>
 <path d="M480.5,336.541v 9.22031" fill="none" stroke="black"/>
 <path d="M480.5,336.541v 9.22031" fill="none" stroke="black"/>
 <path d="M495.618,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M510.736,341.152v 4.61016" fill="none" stroke="black"/>
 <text xml:space="preserve" x="53.2943" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">0</text>
 <text xml:space="preserve" x="106.901" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">200</text>
 <text xml:space="preserve" x="167.005" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">400</text>
@@ -54,6 +53,9 @@ CreationDate: Tue Jun  8 15:09:50 2021</desc>
 <text xml:space="preserve" x="345.693" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">1000</text>
 <text xml:space="preserve" x="405.797" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">1200</text>
 <text xml:space="preserve" x="465.902" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">1400</text>
+<text xml:space="preserve" x="531.691" y="338.695" fill="black" font-size="8.72403" font-family="Helvetica">3</text>
+<text xml:space="preserve" x="518.696" y="345.193" fill="black" font-size="12.836" font-family="Helvetica">10</text>
+<text xml:space="preserve" x="512.198" y="345.193" fill="black" font-size="12.836" font-family="Times">&#0215;</text>
 <text xml:space="preserve" x="441.535" y="370.372" fill="black" font-size="12.836" font-family="Helvetica"> Energy[keV]</text>
 <path d="M57.1929,345.762v -307.344" fill="none" stroke="black"/>
 <path d="M70.7992,345.762h -13.6063" fill="none" stroke="black"/>

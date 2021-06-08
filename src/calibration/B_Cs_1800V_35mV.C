@@ -35,7 +35,7 @@ void B_Cs_1800V_35mV(){
 	//MeanError
 	Double_t a = func->GetParError(1);
 
-	Double_t x = 661.;
+	Double_t x = 661 * 1000;
 
 	ofs << x << " " << y << " " << a << "\n";
 

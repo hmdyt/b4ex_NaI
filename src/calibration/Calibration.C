@@ -25,8 +25,8 @@ vector<Double_t> Calibration(){
 	g1->Draw("P");
 	
 	//Fiti pol1
-	TF1 *func = new TF1("func", "[0]*x + [1]", 0, 1500);
-	func->SetParameter(1997.71/1173, 0 );
+	TF1 *func = new TF1("func", "[0]*x + [1]", 0, 1500 * 1000);
+	func->SetParameter(y/x, 0 );
 	g1->Fit(func, "R");
 
 
@@ -34,7 +34,7 @@ vector<Double_t> Calibration(){
 	Double_t a = func->GetParameter(0);
 	Double_t b = func->GetParameter(1);
 	
-	TH2D *axis = new TH2D("axis", "keV - ADC value; Energy[keV]; ADC Value", 0, 0, 1500, 0, 0, 3000);
+	TH2D *axis = new TH2D("axis", "keV - ADC value; Energy[keV]; ADC Value", 0, 0, 1500 * 1000, 0, 0, 3000);
 	axis->SetStats(0);
 	axis->Draw("AXIS");
 	g1->Draw("P SAME");
