@@ -34,7 +34,7 @@ void Na_BC_th2(){
 	int n_entries = chain->GetEntries();
 	for(int j = 0; j<n_entries; j++){
 		chain->GetEntry(j);
-		hist->Fill(detectorB, detectorC);
+		if (detectorC < 5000) hist->Fill(detectorB, detectorC);
 	}
 
 	//calibration

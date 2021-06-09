@@ -48,7 +48,7 @@ void Na_AC_th2(){
 	for(int i = 0; i < tree1->GetEntries(); i++){
 
 		tree1->GetEntry(i);
-		hist->Fill(file1_area1, file1_area4);
+		if (file1_area4 < 5000) hist->Fill(file1_area1, file1_area4);
 
 
 	}
@@ -56,14 +56,14 @@ void Na_AC_th2(){
 	for(int j = 0; j < tree2->GetEntries(); j++){
 
 		tree2->GetEntry(j);
-		hist->Fill(file2_area1, file2_area4);
+		if (file2_area4 < 5000) hist->Fill(file2_area1, file2_area4);
 
 	}
 
 	for(int j = 0; j < tree3->GetEntries(); j++){
 
 		tree3->GetEntry(j);
-		hist->Fill(file3_area1, file3_area4);
+		if (file3_area4 < 5000) hist->Fill(file3_area1, file3_area4);
 
 	}
 	

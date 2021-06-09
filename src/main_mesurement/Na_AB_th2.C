@@ -16,7 +16,7 @@ void Na_AB_th2(){
 	Double_t detectorA, detectorB, detectorC;
 	chain->SetBranchAddress("area1", &detectorA);
 	chain->SetBranchAddress("area2", &detectorB);
-	//chain->SetBranchAddress("area4", &C);
+	chain->SetBranchAddress("area4", &detectorC);
 
 	//histgram
 	//set parameter
@@ -34,7 +34,7 @@ void Na_AB_th2(){
 	int n_entries = chain->GetEntries();
 	for(int j = 0; j<n_entries; j++){
 		chain->GetEntry(j);
-		hist->Fill(detectorA, detectorB);
+		if (detectorC < 5000) hist->Fill(detectorA, detectorB);
 	}
 
 	//calibration
