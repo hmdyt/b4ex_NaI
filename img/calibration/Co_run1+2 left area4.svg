@@ -1,164 +1,165 @@
 <?xml version="1.0" standalone="no"?>
-<svg width="567.429" height="384.68" viewBox="0 0 567.429 384.68" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<svg width="567.429" height="386.304" viewBox="0 0 567.429 386.304" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
 <title>
 img/calibration/Co_run1+2 left area4.svg
 </title>
 <desc>
-Creator: ROOT Version 6.22/09
-CreationDate: Wed Jun  9 00:53:34 2021</desc>
+Creator: ROOT Version 6.22/08
+CreationDate: Wed Jun  9 14:01:43 2021</desc>
 <defs>
 </defs>
-<rect x="0.5" y="0" width="566.929" height="384.18" fill="white"/>
-<rect x="57.1929" y="38.418" width="453.543" height="307.344" fill="white"/>
-<rect x="57.1929" y="38.418" width="453.543" height="307.344" fill="none" stroke="black"/>
-<rect x="57.1929" y="38.418" width="453.543" height="307.344" fill="white"/>
-<rect x="57.1929" y="38.418" width="453.543" height="307.344" fill="none" stroke="black"/>
-<path d="M57.1929,345.762h 2.72126v -12.1962h 0.907087v -4.06539h 1.81417v -12.1962h 0.907087v 20.327h 0.907087v -28.4578h 0.907087v -8.13079h 0.907087v -4.06539h 1.81417v -24.3924h 0.907087v -8.13079h 1.81417v -36.5886h 0.907087v 40.6539h 0.907087v
- -85.3733h 0.907087v 48.7847h 0.907087v -113.831h 0.907087v 48.7847h 0.907087v -24.3924h 0.907087v -4.06539h 1.81417v 20.327h 0.907087v -85.3733h 0.907087v 48.7847h 0.907087v -16.2616h 0.907087v -36.5886h 0.907087v 40.6539h 1.81417v -8.13079h
- 0.907087v 28.4578h 0.907087v -77.2425h 0.907087v 97.5695h 0.907087v -16.2616h 0.907087v 32.5232h 0.907087v -48.7847h 0.907087v 52.8501h 0.907087v -32.5232h 0.907087v 36.5886h 0.907087v -40.6539h 1.81417v 12.1962h 0.907087v -8.13079h 0.907087v
- 28.4578h 0.907087v 8.13079h 0.907087v 36.5886h 0.907087v -24.3924h 0.907087v 32.5232h 0.907087v -77.2425h 0.907087v 32.5232h 0.907087v 20.327h 0.907087v -20.327h 0.907087v 12.1962h 0.907087v 24.3924h 0.907087v 4.06539h 0.907087v 20.327h 0.907087v
- 16.2616h 0.907087v -40.6539h 0.907087v 32.5232h 0.907087v 4.06539h 0.907087v -8.13079h 0.907087v 28.4578h 0.907087v -44.7193h 0.907087v 24.3924h 0.907087v 32.5232h 0.907087v -44.7193h 0.907087v 16.2616h 0.907087v 20.327h 1.81417v -8.13079h 0.907087v
- -28.4578h 1.81417v 44.7193h 0.907087v 4.06539h 0.907087v -32.5232h 0.907087v 20.327h 0.907087v -16.2616h 0.907087v 20.327h 0.907087v 16.2616h 0.907087v -36.5886h 0.907087v 8.13079h 0.907087v -8.13079h 0.907087v -28.4578h 0.907087v 52.8501h 0.907087v
- 4.06539h 1.81417v -4.06539h 0.907087v -28.4578h 0.907087v 69.1117h 0.907087v -65.0463h 0.907087v 16.2616h 0.907087v -36.5886h 0.907087v 56.9155h 0.907087v -24.3924h 0.907087v -12.1962h 0.907087v 32.5232h 0.907087v -16.2616h 0.907087v 12.1962h
- 0.907087v -20.327h 1.81417v -12.1962h 0.907087v 24.3924h 0.907087v 20.327h 0.907087v -16.2616h 0.907087v -20.327h 0.907087v 32.5232h 1.81417v -16.2616h 0.907087v 20.327h 0.907087v 4.06539h 0.907087v 4.06539h 0.907087v -36.5886h 0.907087v -4.06539h
- 0.907087v 4.06539h 0.907087v 20.327h 0.907087v 16.2616h 1.81417v -24.3924h 0.907087v -20.327h 0.907087v 36.5886h 1.81417v -20.327h 0.907087v 12.1962h 0.907087v -8.13079h 0.907087v 12.1962h 0.907087v -8.13079h 0.907087v -4.06539h 0.907087v 12.1962h
- 0.907087v -20.327h 0.907087v 16.2616h 2.72126v 8.13079h 0.907087v -12.1962h 0.907087v 12.1962h 0.907087v 4.06539h 0.907087v 8.13079h 1.81417v -24.3924h 0.907087v 12.1962h 0.907087v -4.06539h 0.907087v 4.06539h 0.907087v 4.06539h 0.907087v -4.06539h
- 0.907087v 8.13079h 0.907087v -12.1962h 0.907087v 12.1962h 0.907087v 12.1962h 0.907087v -16.2616h 0.907087v 16.2616h 0.907087v -24.3924h 1.81417v 12.1962h 0.907087v -52.8501h 0.907087v 28.4578h 0.907087v 28.4578h 0.907087v -12.1962h 0.907087v
- -32.5232h 0.907087v 48.7847h 0.907087v -32.5232h 0.907087v 24.3924h 0.907087v -12.1962h 1.81417v -20.327h 0.907087v 44.7193h 0.907087v -8.13079h 0.907087v -16.2616h 0.907087v 16.2616h 0.907087v 4.06539h 0.907087v 4.06539h 0.907087v -40.6539h
- 0.907087v 40.6539h 0.907087v -8.13079h 0.907087v 16.2616h 0.907087v -32.5232h 0.907087v 8.13079h 0.907087v -8.13079h 0.907087v 4.06539h 0.907087v -4.06539h 1.81417v -4.06539h 0.907087v 4.06539h 0.907087v 4.06539h 0.907087v -12.1962h 0.907087v
- 12.1962h 0.907087v 12.1962h 0.907087v -24.3924h 0.907087v 24.3924h 0.907087v -16.2616h 0.907087v -8.13079h 0.907087v 20.327h 0.907087v -12.1962h 0.907087v -8.13079h 0.907087v 24.3924h 0.907087v 8.13079h 0.907087v -16.2616h 0.907087v -12.1962h
- 0.907087v 24.3924h 1.81417v -4.06539h 0.907087v -16.2616h 0.907087v 16.2616h 0.907087v -20.327h 0.907087v 20.327h 0.907087v -20.327h 0.907087v 16.2616h 0.907087v 4.06539h 0.907087v -12.1962h 0.907087v -8.13079h 0.907087v 12.1962h 0.907087v 4.06539h
- 0.907087v -8.13079h 0.907087v 8.13079h 0.907087v -24.3924h 0.907087v -20.327h 0.907087v 44.7193h 0.907087v -4.06539h 0.907087v -24.3924h 0.907087v -8.13079h 0.907087v 12.1962h 0.907087v 28.4578h 0.907087v -40.6539h 0.907087v 36.5886h 0.907087v
- -24.3924h 0.907087v -12.1962h 0.907087v 12.1962h 0.907087v 8.13079h 0.907087v -12.1962h 0.907087v 16.2616h 0.907087v -12.1962h 0.907087v 4.06539h 0.907087v 12.1962h 1.81417v 4.06539h 0.907087v -28.4578h 1.81417v -8.13079h 0.907087v 12.1962h
- 0.907087v 8.13079h 0.907087v -16.2616h 0.907087v 8.13079h 1.81417v -12.1962h 0.907087v 12.1962h 0.907087v 20.327h 0.907087v -32.5232h 0.907087v 12.1962h 0.907087v 12.1962h 0.907087v -12.1962h 0.907087v 8.13079h 0.907087v -28.4578h 0.907087v 16.2616h
- 0.907087v 32.5232h 0.907087v -20.327h 0.907087v 28.4578h 0.907087v -48.7847h 0.907087v 8.13079h 0.907087v -4.06539h 0.907087v 4.06539h 0.907087v 16.2616h 0.907087v 8.13079h 0.907087v -8.13079h 0.907087v -16.2616h 0.907087v 8.13079h 0.907087v
- 4.06539h 0.907087v -12.1962h 0.907087v 4.06539h 0.907087v 12.1962h 0.907087v -20.327h 0.907087v -12.1962h 0.907087v 52.8501h 0.907087v -4.06539h 0.907087v -32.5232h 0.907087v -24.3924h 0.907087v 48.7847h 0.907087v -20.327h 0.907087v 28.4578h
- 0.907087v -20.327h 0.907087v -20.327h 0.907087v -24.3924h 0.907087v 8.13079h 0.907087v 44.7193h 0.907087v -16.2616h 0.907087v -8.13079h 0.907087v -4.06539h 0.907087v -20.327h 0.907087v 24.3924h 0.907087v 24.3924h 0.907087v -24.3924h 0.907087v
- 8.13079h 0.907087v 16.2616h 0.907087v 4.06539h 0.907087v -52.8501h 0.907087v 60.9809h 0.907087v -56.9155h 0.907087v 36.5886h 0.907087v -16.2616h 0.907087v -20.327h 0.907087v 60.9809h 0.907087v -16.2616h 0.907087v 12.1962h 0.907087v -12.1962h
- 0.907087v 4.06539h 0.907087v -36.5886h 0.907087v -4.06539h 0.907087v 20.327h 0.907087v 20.327h 0.907087v 12.1962h 0.907087v -12.1962h 0.907087v 4.06539h 1.81417v 8.13079h 0.907087v -8.13079h 0.907087v -8.13079h 0.907087v 24.3924h 0.907087v 4.06539h
- 1.81417v -8.13079h 0.907087v 4.06539h 1.81417v -4.06539h 0.907087v 12.1962h 0.907087v -28.4578h 0.907087v 36.5886h 0.907087v -4.06539h 0.907087v 12.1962h 0.907087v -24.3924h 0.907087v 16.2616h 1.81417v -12.1962h 0.907087v 8.13079h 0.907087v 4.06539h
- 0.907087v -8.13079h 0.907087v -8.13079h 0.907087v 4.06539h 1.81417v 12.1962h 0.907087v -4.06539h 0.907087v 8.13079h 0.907087v -4.06539h 1.81417v -4.06539h 1.81417v 12.1962h 0.907087v -12.1962h 0.907087v 4.06539h 1.81417v 8.13079h 0.907087v -12.1962h
- 0.907087v 12.1962h 0.907087v 4.06539h 1.81417v -4.06539h 0.907087v -4.06539h 0.907087v 4.06539h 0.907087v 4.06539h 0.907087v -4.06539h 0.907087v 4.06539h 1.81417v -4.06539h 1.81417v 4.06539h 1.81417v -4.06539h 0.907087v 4.06539h 4.53543v -8.13079h
- 0.907087v 8.13079h 1.81417v -4.06539h 0.907087v 4.06539h 0.907087v -4.06539h 0.907087v 4.06539h 0.907087v -4.06539h 0.907087v 4.06539h 1.81417v -4.06539h 0.907087v 4.06539h 1.81417v -12.1962h 0.907087v 8.13079h 0.907087v 4.06539h 0.907087v -4.06539h
- 0.907087v 4.06539h 6.34961v -4.06539h 1.81417v 4.06539h 11.7921v -4.06539h 0.907087v 4.06539h 4.53543v -4.06539h 1.81417v 4.06539h 2.72126v -4.06539h 0.907087v 4.06539h 5.44252v -4.06539h 0.907087v 4.06539h 64.4031" fill="none" stroke="#000099"/>
-<path d="M293.67,277.946l 1.26992, 0.102359l 1.26992, 0.117685l 1.26992, 0.134819l 1.26992, 0.153893l 1.26992, 0.175033l 1.26992, 0.198362l 1.26992, 0.223992l 1.26992, 0.252024l 1.26992, 0.282544l 1.26992, 0.315622l 1.26992, 0.351305l 1.26992,
- 0.389615l 1.26992, 0.43055l 1.26992, 0.474076l 1.26992, 0.520124l 1.26992, 0.568593l 1.26992, 0.619345l 1.26992, 0.6722l 1.26992, 0.726943l 1.26992, 0.783318l 1.26992, 0.84103l 1.26992, 0.899748l 1.26992, 0.959103l 1.26992, 1.0187l 1.26992, 1.07811l
- 1.26992, 1.13688l 1.26992, 1.19454l 1.26992, 1.25062l 1.26992, 1.30462l 1.26992, 1.35606l 1.26992, 1.40446l 1.26992, 1.44935l 1.26992, 1.49031l 1.26992, 1.52691l 1.26992, 1.55879l 1.26992, 1.58561l 1.26992, 1.60709l 1.26992, 1.623l 1.26992, 1.63319l
- 1.26992, 1.63752l 1.26992, 1.63597l 1.26992, 1.62853l 1.26992, 1.61531l 1.26992, 1.59643l 1.26992, 1.5721l 1.26992, 1.54257l 1.26992, 1.50816l 1.26992, 1.46921l 1.26992, 1.42612" fill="none" stroke="#ff0000" stroke-width="2"/>
-<path d="M355.897,325.989l 1.26992, 1.37932l 1.26992, 1.32926l 1.26992, 1.27641l 1.26992, 1.22125l 1.26992, 1.16427l 1.26992, 1.10597l 1.26992, 1.0468l 1.26992, 0.98724l 1.26992, 0.92772l 1.26992, 0.868653l 1.26992, 0.810423l 1.26992, 0.753378l
- 1.26992, 0.69783l 1.26992, 0.644053l 1.26992, 0.592284l 1.26992, 0.542717l 1.26992, 0.495511l 1.26992, 0.450784l 1.26992, 0.408619l 1.26992, 0.369067l 1.26992, 0.332145l 1.26992, 0.297842l 1.26992, 0.266121l 1.26992, 0.236924l 1.26992, 0.210171l
- 1.26992, 0.185769l 1.26992, 0.16361l 1.26992, 0.143576l 1.26992, 0.125542l 1.26992, 0.109379l 1.26992, 0.0949539l 1.26992, 0.0821349l 1.26992, 0.070791l 1.26992, 0.0607945l 1.26992, 0.0520219l 1.26992, 0.0443551l 1.26992, 0.0376823l 1.26992,
- 0.0318982l 1.26992, 0.0269049l 1.26992, 0.0226116l 1.26992, 0.0189351l 1.26992, 0.0157993l 1.26992, 0.0131355l 1.26992, 0.0108815l 1.26992, 0.00898189l 1.26992, 0.00738724l 1.26992, 0.0310922h 2.53984" fill="none" stroke="#ff0000" stroke-width="2"/>
-<path d="M418.123,345.762h 1.26992" fill="none" stroke="#ff0000" stroke-width="2"/>
-<rect x="442.705" y="24.9717" width="113.386" height="61.4688" fill="white"/>
-<path d="M442.705,86.4405h 113.386" fill="none" stroke="black"/>
-<path d="M556.091,86.4405v -61.4688" fill="none" stroke="black"/>
-<path d="M556.091,24.9717h -113.386" fill="none" stroke="black"/>
-<path d="M442.705,24.9717v 61.4688" fill="none" stroke="black"/>
-<text xml:space="preserve" x="463.465" y="36.5499" fill="black" font-size="13.4705" font-family="Helvetica">hist_area4_l</text>
-<path d="M442.705,40.3389h 113.386" fill="none" stroke="black"/>
-<text xml:space="preserve" x="448.033" y="52.7943" fill="black" font-size="13.0884" font-family="Helvetica">Entries </text>
-<text xml:space="preserve" x="517.884" y="52.7943" fill="black" font-size="13.0884" font-family="Helvetica"> 6233</text>
-<text xml:space="preserve" x="448.033" y="68.2264" fill="black" font-size="13.0884" font-family="Helvetica">Mean  </text>
-<text xml:space="preserve" x="510.574" y="68.2264" fill="black" font-size="13.0884" font-family="Helvetica">  684.3</text>
-<text xml:space="preserve" x="448.033" y="82.8464" fill="black" font-size="13.0884" font-family="Helvetica">Std Dev   </text>
-<text xml:space="preserve" x="510.574" y="82.8464" fill="black" font-size="13.0884" font-family="Helvetica">  503.9</text>
-<path d="M57.1929,345.762h 453.543" fill="none" stroke="black"/>
-<path d="M57.1929,336.541v 9.22031" fill="none" stroke="black"/>
-<path d="M75.3346,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M93.4764,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M111.618,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M129.76,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M147.902,336.541v 9.22031" fill="none" stroke="black"/>
-<path d="M166.043,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M184.185,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M202.327,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M220.469,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M238.61,336.541v 9.22031" fill="none" stroke="black"/>
-<path d="M256.752,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M274.894,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M293.035,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M311.177,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M329.319,336.541v 9.22031" fill="none" stroke="black"/>
-<path d="M347.461,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M365.602,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M383.744,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M401.886,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M420.028,336.541v 9.22031" fill="none" stroke="black"/>
-<path d="M438.169,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M456.311,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M474.453,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M492.594,341.152v 4.61016" fill="none" stroke="black"/>
-<path d="M510.736,336.541v 9.22031" fill="none" stroke="black"/>
-<text xml:space="preserve" x="53.2943" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">0</text>
-<text xml:space="preserve" x="136.953" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">500</text>
-<text xml:space="preserve" x="224.673" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">1000</text>
-<text xml:space="preserve" x="314.829" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">1500</text>
-<text xml:space="preserve" x="405.797" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">2000</text>
-<text xml:space="preserve" x="496.766" y="358.189" fill="black" font-size="12.836" font-family="Helvetica">2500</text>
-<text xml:space="preserve" x="485.395" y="371.996" fill="black" font-size="12.836" font-family="Helvetica">ADC</text>
-<path d="M57.1929,345.762v -307.344" fill="none" stroke="black"/>
-<path d="M70.7992,345.762h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,337.631h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,329.5h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,321.369h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,313.239h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,305.108h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,296.977h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,288.846h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,280.715h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,272.585h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,264.454h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,256.323h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,248.192h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,240.062h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,231.931h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,223.8h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,215.669h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,207.538h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,199.408h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,191.277h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,183.146h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,175.015h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,166.884h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,158.754h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,150.623h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,142.492h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,134.361h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,126.23h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,118.1h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,109.969h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,101.838h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,93.7073h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,85.5766h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,77.4458h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,69.315h -6.80315" fill="none" stroke="black"/>
-<path d="M70.7992,61.1842h -13.6063" fill="none" stroke="black"/>
-<path d="M70.7992,61.1842h -13.6063" fill="none" stroke="black"/>
-<path d="M63.9961,53.0534h -6.80315" fill="none" stroke="black"/>
-<path d="M63.9961,44.9226h -6.80315" fill="none" stroke="black"/>
-<text xml:space="preserve" x="47.6087" y="350.067" fill="black" font-size="12.836" font-family="Helvetica">0</text>
-<text xml:space="preserve" x="41.111" y="309.456" fill="black" font-size="12.836" font-family="Helvetica">10</text>
-<text xml:space="preserve" x="41.111" y="268.845" fill="black" font-size="12.836" font-family="Helvetica">20</text>
-<text xml:space="preserve" x="41.111" y="228.234" fill="black" font-size="12.836" font-family="Helvetica">30</text>
-<text xml:space="preserve" x="41.111" y="187.623" fill="black" font-size="12.836" font-family="Helvetica">40</text>
-<text xml:space="preserve" x="41.111" y="147.012" fill="black" font-size="12.836" font-family="Helvetica">50</text>
-<text xml:space="preserve" x="41.111" y="106.401" fill="black" font-size="12.836" font-family="Helvetica">60</text>
-<text xml:space="preserve" x="41.111" y="65.7898" fill="black" font-size="12.836" font-family="Helvetica">70</text>
-<g transform="rotate(-90,28.9277,69.8509)">
-<text xml:space="preserve" x="28.9277" y="69.8509" fill="black" font-size="12.836" font-family="Helvetica">Event</text>
+<rect x="0.5" y="0" width="566.929" height="385.804" fill="white"/>
+<rect x="57.1929" y="38.5804" width="453.543" height="308.643" fill="white"/>
+<rect x="57.1929" y="38.5804" width="453.543" height="308.643" fill="none" stroke="black"/>
+<rect x="57.1929" y="38.5804" width="453.543" height="308.643" fill="white"/>
+<rect x="57.1929" y="38.5804" width="453.543" height="308.643" fill="none" stroke="black"/>
+<path d="M57.1929,347.224h 2.72126v -12.5977h 0.907087v -4.19923h 1.81417v -12.5977h 0.907087v 20.9961h 0.907087v -29.3946h 0.907087v -8.39846h 0.907087v 4.19923h 0.907087v -8.39846h 0.907087v -20.9961h 0.907087v -12.5977h 1.81417v -37.7931h
+ 0.907087v 41.9923h 0.907087v -75.5861h 0.907087v 41.9923h 0.907087v -109.18h 0.907087v 41.9923h 0.907087v -25.1954h 0.907087v -8.39846h 0.907087v 8.39846h 0.907087v 12.5977h 0.907087v -83.9846h 0.907087v 67.1877h 0.907087v -20.9961h 0.907087v
+ -50.3908h 0.907087v 46.1915h 0.907087v -8.39846h 0.907087v -4.19923h 0.907087v 29.3946h 0.907087v -75.5861h 0.907087v 104.981h 0.907087v -25.1954h 0.907087v 37.7931h 0.907087v -46.1915h 0.907087v 46.1915h 0.907087v -33.5938h 0.907087v 37.7931h
+ 0.907087v -41.9923h 0.907087v -4.19923h 0.907087v 12.5977h 0.907087v 4.19923h 0.907087v 20.9961h 0.907087v 25.1954h 0.907087v 16.7969h 0.907087v -25.1954h 0.907087v 33.5938h 0.907087v -75.5861h 0.907087v 29.3946h 0.907087v 25.1954h 0.907087v
+ -25.1954h 0.907087v 16.7969h 0.907087v 25.1954h 1.81417v 20.9961h 0.907087v 20.9961h 0.907087v -41.9923h 0.907087v 29.3946h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v 25.1954h 0.907087v -41.9923h 0.907087v 20.9961h 0.907087v 33.5938h 0.907087v
+ -41.9923h 0.907087v 16.7969h 0.907087v 16.7969h 0.907087v 4.19923h 0.907087v -12.5977h 0.907087v -29.3946h 1.81417v 50.3908h 1.81417v -33.5938h 0.907087v 20.9961h 0.907087v -4.19923h 0.907087v 8.39846h 0.907087v 20.9961h 0.907087v -41.9923h
+ 0.907087v 12.5977h 0.907087v -12.5977h 0.907087v -29.3946h 0.907087v 58.7892h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v -4.19923h 0.907087v -25.1954h 0.907087v 67.1877h 0.907087v -67.1877h 0.907087v 20.9961h 0.907087v -33.5938h 0.907087v
+ 54.59h 0.907087v -29.3946h 0.907087v -12.5977h 0.907087v 37.7931h 0.907087v -20.9961h 0.907087v 16.7969h 0.907087v -16.7969h 0.907087v -8.39846h 0.907087v -4.19923h 0.907087v 25.1954h 0.907087v 20.9961h 0.907087v -20.9961h 0.907087v -20.9961h
+ 0.907087v 33.5938h 0.907087v -4.19923h 0.907087v -12.5977h 0.907087v 16.7969h 0.907087v 8.39846h 1.81417v -33.5938h 0.907087v -4.19923h 0.907087v 4.19923h 0.907087v 25.1954h 0.907087v 16.7969h 0.907087v -8.39846h 0.907087v -25.1954h 0.907087v
+ -20.9961h 0.907087v 37.7931h 1.81417v -16.7969h 0.907087v 12.5977h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v -4.19923h 0.907087v -4.19923h 0.907087v 12.5977h 0.907087v -25.1954h 0.907087v 16.7969h 2.72126v 8.39846h 0.907087v -8.39846h
+ 0.907087v 12.5977h 0.907087v 4.19923h 0.907087v 4.19923h 1.81417v -25.1954h 0.907087v 16.7969h 2.72126v 8.39846h 0.907087v -12.5977h 0.907087v 8.39846h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v 16.7969h 0.907087v -16.7969h 0.907087v 12.5977h
+ 0.907087v -25.1954h 1.81417v 12.5977h 0.907087v -54.59h 0.907087v 29.3946h 0.907087v 33.5938h 0.907087v -16.7969h 0.907087v -25.1954h 0.907087v 41.9923h 0.907087v -33.5938h 0.907087v 25.1954h 0.907087v -8.39846h 0.907087v -4.19923h 0.907087v
+ -20.9961h 0.907087v 46.1915h 0.907087v -8.39846h 0.907087v -16.7969h 0.907087v 16.7969h 0.907087v 4.19923h 0.907087v 4.19923h 0.907087v -37.7931h 0.907087v 37.7931h 0.907087v -4.19923h 0.907087v 12.5977h 0.907087v -29.3946h 0.907087v 4.19923h
+ 0.907087v -8.39846h 0.907087v 4.19923h 1.81417v -4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 0.907087v 8.39846h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v 8.39846h 0.907087v -25.1954h 0.907087v 25.1954h 0.907087v -16.7969h 0.907087v
+ -4.19923h 0.907087v 16.7969h 0.907087v -12.5977h 0.907087v -8.39846h 0.907087v 25.1954h 0.907087v 8.39846h 0.907087v -16.7969h 0.907087v -12.5977h 0.907087v 25.1954h 2.72126v -20.9961h 0.907087v 16.7969h 0.907087v -16.7969h 0.907087v 16.7969h
+ 0.907087v -16.7969h 0.907087v 12.5977h 0.907087v 8.39846h 0.907087v -12.5977h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v 8.39846h 0.907087v -12.5977h 0.907087v 8.39846h 0.907087v -25.1954h 0.907087v -20.9961h 0.907087v 46.1915h 0.907087v
+ -4.19923h 0.907087v -25.1954h 0.907087v -8.39846h 0.907087v 20.9961h 0.907087v 20.9961h 0.907087v -37.7931h 0.907087v 33.5938h 0.907087v -16.7969h 0.907087v -16.7969h 0.907087v 16.7969h 0.907087v 4.19923h 0.907087v -12.5977h 0.907087v 12.5977h
+ 0.907087v -8.39846h 0.907087v 4.19923h 0.907087v 8.39846h 1.81417v 4.19923h 0.907087v -29.3946h 1.81417v -4.19923h 0.907087v 12.5977h 0.907087v 4.19923h 0.907087v -12.5977h 0.907087v 4.19923h 1.81417v -4.19923h 0.907087v 12.5977h 0.907087v 12.5977h
+ 0.907087v -33.5938h 0.907087v 12.5977h 0.907087v 12.5977h 0.907087v -12.5977h 0.907087v 20.9961h 0.907087v -37.7931h 0.907087v 25.1954h 0.907087v 20.9961h 0.907087v -20.9961h 0.907087v 29.3946h 0.907087v -46.1915h 0.907087v 8.39846h 0.907087v
+ -4.19923h 0.907087v 4.19923h 0.907087v 12.5977h 0.907087v 8.39846h 0.907087v -4.19923h 0.907087v -20.9961h 0.907087v 8.39846h 0.907087v 8.39846h 0.907087v -8.39846h 0.907087v -4.19923h 0.907087v 12.5977h 0.907087v -20.9961h 0.907087v -12.5977h
+ 0.907087v 54.59h 0.907087v -4.19923h 0.907087v -29.3946h 0.907087v -25.1954h 0.907087v 46.1915h 0.907087v -20.9961h 0.907087v 29.3946h 0.907087v -16.7969h 0.907087v -20.9961h 0.907087v -25.1954h 0.907087v 4.19923h 0.907087v 54.59h 0.907087v
+ -25.1954h 0.907087v -8.39846h 1.81417v -16.7969h 0.907087v 16.7969h 0.907087v 29.3946h 0.907087v -25.1954h 0.907087v 4.19923h 0.907087v 16.7969h 0.907087v 8.39846h 0.907087v -58.7892h 0.907087v 62.9884h 0.907087v -54.59h 0.907087v 33.5938h 0.907087v
+ -16.7969h 0.907087v -16.7969h 0.907087v 58.7892h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v -16.7969h 0.907087v 4.19923h 0.907087v -37.7931h 0.907087v -4.19923h 0.907087v 20.9961h 0.907087v 20.9961h 0.907087v 12.5977h 0.907087v -12.5977h
+ 0.907087v 4.19923h 1.81417v 8.39846h 0.907087v -8.39846h 1.81417v 20.9961h 2.72126v -8.39846h 0.907087v 4.19923h 2.72126v 8.39846h 0.907087v -25.1954h 0.907087v 33.5938h 0.907087v -4.19923h 0.907087v 12.5977h 0.907087v -25.1954h 0.907087v 16.7969h
+ 1.81417v -12.5977h 0.907087v 8.39846h 0.907087v 4.19923h 0.907087v -8.39846h 0.907087v -8.39846h 0.907087v 4.19923h 1.81417v 12.5977h 0.907087v -4.19923h 0.907087v 8.39846h 0.907087v -4.19923h 1.81417v -4.19923h 1.81417v 12.5977h 0.907087v -12.5977h
+ 0.907087v 4.19923h 1.81417v 8.39846h 0.907087v -12.5977h 0.907087v 12.5977h 0.907087v 4.19923h 1.81417v -4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 1.81417v -4.19923h 1.81417v 4.19923h
+ 1.81417v -4.19923h 0.907087v 4.19923h 4.53543v -8.39846h 0.907087v 8.39846h 1.81417v -4.19923h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 1.81417v -4.19923h 0.907087v 4.19923h 1.81417v -12.5977h
+ 0.907087v 8.39846h 0.907087v 4.19923h 0.907087v -4.19923h 0.907087v 4.19923h 6.34961v -4.19923h 1.81417v 4.19923h 11.7921v -4.19923h 0.907087v 4.19923h 4.53543v -4.19923h 1.81417v 4.19923h 2.72126v -4.19923h 0.907087v 4.19923h 5.44252v -4.19923h
+ 0.907087v 4.19923h 64.4031" fill="none" stroke="#000099"/>
+<path d="M293.67,279.028l 1.26992, 0.114485l 1.26992, 0.130767l 1.26992, 0.148853l 1.26992, 0.168861l 1.26992, 0.1909l 1.26992, 0.215078l 1.26992, 0.241487l 1.26992, 0.27021l 1.26992, 0.301314l 1.26992, 0.334848l 1.26992, 0.370838l 1.26992, 0.40929l
+ 1.26992, 0.450182l 1.26992, 0.493463l 1.26992, 0.539052l 1.26992, 0.586836l 1.26992, 0.636667l 1.26992, 0.688363l 1.26992, 0.741707l 1.26992, 0.796448l 1.26992, 0.852298l 1.26992, 0.908941l 1.26992, 0.966028l 1.26992, 1.02318l 1.26992, 1.08001l
+ 1.26992, 1.13608l 1.26992, 1.19098l 1.26992, 1.24424l 1.26992, 1.29544l 1.26992, 1.34413l 1.26992, 1.38986l 1.26992, 1.43223l 1.26992, 1.47084l 1.26992, 1.50531l 1.26992, 1.53531l 1.26992, 1.56055l 1.26992, 1.58076l 1.26992, 1.59576l 1.26992,
+ 1.60537l 1.26992, 1.60952l 1.26992, 1.60814l 1.26992, 1.60127l 1.26992, 1.58896l 1.26992, 1.57134l 1.26992, 1.5486l 1.26992, 1.52095l 1.26992, 1.48869l 1.26992, 1.45211l 1.26992, 1.41159" fill="none" stroke="#ff0000" stroke-width="2"/>
+<path d="M355.897,326.976l 1.26992, 1.36749l 1.26992, 1.32023l 1.26992, 1.27024l 1.26992, 1.21796l 1.26992, 1.16383l 1.26992, 1.10829l 1.26992, 1.05179l 1.26992, 0.994748l 1.26992, 0.937578l 1.26992, 0.880667l 1.26992, 0.824376l 1.26992, 0.769041l
+ 1.26992, 0.714961l 1.26992, 0.662408l 1.26992, 0.611616l 1.26992, 0.562783l 1.26992, 0.516076l 1.26992, 0.471623l 1.26992, 0.429524l 1.26992, 0.389842l 1.26992, 0.352614l 1.26992, 0.317849l 1.26992, 0.28553l 1.26992, 0.255618l 1.26992, 0.228056l
+ 1.26992, 0.202769l 1.26992, 0.179668l 1.26992, 0.158654l 1.26992, 0.139617l 1.26992, 0.122444l 1.26992, 0.107016l 1.26992, 0.0932106l 1.26992, 0.0809083l 1.26992, 0.0699892l 1.26992, 0.0603362l 1.26992, 0.0518365l 1.26992, 0.0443815l 1.26992,
+ 0.0378686l 1.26992, 0.0322007l 1.26992, 0.0272873l 1.26992, 0.0230445l 1.26992, 0.0193947l 1.26992, 0.016267l 1.26992, 0.013597l 1.26992, 0.0113263l 1.26992, 0.00940246l 1.26992, 0.00777868l 1.26992, 0.0338403h 1.26992" fill="none" stroke="#ff0000"
+ stroke-width="2"/>
+<path d="M418.123,347.224h 1.26992" fill="none" stroke="#ff0000" stroke-width="2"/>
+<rect x="442.705" y="25.0773" width="113.386" height="61.7287" fill="white"/>
+<path d="M442.705,86.8059h 113.386" fill="none" stroke="black"/>
+<path d="M556.091,86.8059v -61.7287" fill="none" stroke="black"/>
+<path d="M556.091,25.0773h -113.386" fill="none" stroke="black"/>
+<path d="M442.705,25.0773v 61.7287" fill="none" stroke="black"/>
+<text xml:space="preserve" x="463.465" y="36.5499" fill="black" font-size="13.5253" font-family="Helvetica">hist_area4_l</text>
+<path d="M442.705,40.5094h 113.386" fill="none" stroke="black"/>
+<text xml:space="preserve" x="448.033" y="52.7943" fill="black" font-size="13.5109" font-family="Helvetica">Entries </text>
+<text xml:space="preserve" x="517.884" y="52.7943" fill="black" font-size="13.5109" font-family="Helvetica"> 6043</text>
+<text xml:space="preserve" x="448.033" y="68.2264" fill="black" font-size="13.5109" font-family="Helvetica">Mean  </text>
+<text xml:space="preserve" x="510.574" y="68.2264" fill="black" font-size="13.5109" font-family="Helvetica">  684.2</text>
+<text xml:space="preserve" x="448.033" y="84.4708" fill="black" font-size="13.5109" font-family="Helvetica">Std Dev   </text>
+<text xml:space="preserve" x="510.574" y="83.6586" fill="black" font-size="13.5109" font-family="Helvetica">  504.7</text>
+<path d="M57.1929,347.224h 453.543" fill="none" stroke="black"/>
+<path d="M57.1929,337.964v 9.2593" fill="none" stroke="black"/>
+<path d="M75.3346,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M93.4764,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M111.618,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M129.76,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M147.902,337.964v 9.2593" fill="none" stroke="black"/>
+<path d="M166.043,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M184.185,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M202.327,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M220.469,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M238.61,337.964v 9.2593" fill="none" stroke="black"/>
+<path d="M256.752,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M274.894,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M293.035,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M311.177,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M329.319,337.964v 9.2593" fill="none" stroke="black"/>
+<path d="M347.461,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M365.602,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M383.744,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M401.886,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M420.028,337.964v 9.2593" fill="none" stroke="black"/>
+<path d="M438.169,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M456.311,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M474.453,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M492.594,342.594v 4.62965" fill="none" stroke="black"/>
+<path d="M510.736,337.964v 9.2593" fill="none" stroke="black"/>
+<text xml:space="preserve" x="52.482" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">0</text>
+<text xml:space="preserve" x="136.141" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">500</text>
+<text xml:space="preserve" x="223.86" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">1000</text>
+<text xml:space="preserve" x="314.017" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">1500</text>
+<text xml:space="preserve" x="404.985" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">2000</text>
+<text xml:space="preserve" x="495.954" y="359.813" fill="black" font-size="12.8882" font-family="Helvetica">2500</text>
+<text xml:space="preserve" x="482.958" y="374.433" fill="black" font-size="12.8882" font-family="Helvetica">ADC</text>
+<path d="M57.1929,347.224v -308.643" fill="none" stroke="black"/>
+<path d="M70.7992,347.224h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,338.825h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,330.427h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,322.028h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,313.63h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,305.232h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,296.833h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,288.435h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,280.036h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,271.638h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,263.239h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,254.841h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,246.442h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,238.044h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,229.645h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,221.247h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,212.848h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,204.45h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,196.052h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,187.653h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,179.255h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,170.856h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,162.458h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,154.059h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,145.661h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,137.262h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,128.864h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,120.465h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,112.067h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,103.668h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,95.27h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,86.8716h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,78.4731h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,70.0746h -6.80315" fill="none" stroke="black"/>
+<path d="M63.9961,61.6762h -6.80315" fill="none" stroke="black"/>
+<path d="M70.7992,53.2777h -13.6063" fill="none" stroke="black"/>
+<path d="M70.7992,53.2777h -13.6063" fill="none" stroke="black"/>
+<path d="M63.9961,44.8793h -6.80315" fill="none" stroke="black"/>
+<text xml:space="preserve" x="46.7965" y="351.691" fill="black" font-size="12.8882" font-family="Helvetica">0</text>
+<text xml:space="preserve" x="39.4865" y="309.456" fill="black" font-size="12.8882" font-family="Helvetica">10</text>
+<text xml:space="preserve" x="39.4865" y="268.032" fill="black" font-size="12.8882" font-family="Helvetica">20</text>
+<text xml:space="preserve" x="39.4865" y="225.797" fill="black" font-size="12.8882" font-family="Helvetica">30</text>
+<text xml:space="preserve" x="39.4865" y="183.562" fill="black" font-size="12.8882" font-family="Helvetica">40</text>
+<text xml:space="preserve" x="39.4865" y="141.326" fill="black" font-size="12.8882" font-family="Helvetica">50</text>
+<text xml:space="preserve" x="39.4865" y="99.903" fill="black" font-size="12.8882" font-family="Helvetica">60</text>
+<text xml:space="preserve" x="39.4865" y="57.6676" fill="black" font-size="12.8882" font-family="Helvetica">70</text>
+<g transform="rotate(-90,28.9277,71.4753)">
+<text xml:space="preserve" x="28.9277" y="71.4753" fill="black" font-size="12.8882" font-family="Helvetica">Event</text>
 </g>
-<rect x="442.705" y="24.9717" width="113.386" height="61.4688" fill="white"/>
-<path d="M442.705,86.4405h 113.386" fill="none" stroke="black"/>
-<path d="M556.091,86.4405v -61.4688" fill="none" stroke="black"/>
-<path d="M556.091,24.9717h -113.386" fill="none" stroke="black"/>
-<path d="M442.705,24.9717v 61.4688" fill="none" stroke="black"/>
-<text xml:space="preserve" x="463.465" y="36.5499" fill="black" font-size="13.4705" font-family="Helvetica">hist_area4_l</text>
-<path d="M442.705,40.3389h 113.386" fill="none" stroke="black"/>
-<text xml:space="preserve" x="448.033" y="52.7943" fill="black" font-size="13.0884" font-family="Helvetica">Entries </text>
-<text xml:space="preserve" x="517.884" y="52.7943" fill="black" font-size="13.0884" font-family="Helvetica"> 6233</text>
-<text xml:space="preserve" x="448.033" y="68.2264" fill="black" font-size="13.0884" font-family="Helvetica">Mean  </text>
-<text xml:space="preserve" x="510.574" y="68.2264" fill="black" font-size="13.0884" font-family="Helvetica">  684.3</text>
-<text xml:space="preserve" x="448.033" y="82.8464" fill="black" font-size="13.0884" font-family="Helvetica">Std Dev   </text>
-<text xml:space="preserve" x="510.574" y="82.8464" fill="black" font-size="13.0884" font-family="Helvetica">  503.9</text>
-<text xml:space="preserve" x="199.494" y="18.681" fill="black" font-size="17.9813" font-family="Helvetica">Co_run1+2 left area4</text></svg>
+<rect x="442.705" y="25.0773" width="113.386" height="61.7287" fill="white"/>
+<path d="M442.705,86.8059h 113.386" fill="none" stroke="black"/>
+<path d="M556.091,86.8059v -61.7287" fill="none" stroke="black"/>
+<path d="M556.091,25.0773h -113.386" fill="none" stroke="black"/>
+<path d="M442.705,25.0773v 61.7287" fill="none" stroke="black"/>
+<text xml:space="preserve" x="463.465" y="36.5499" fill="black" font-size="13.5253" font-family="Helvetica">hist_area4_l</text>
+<path d="M442.705,40.5094h 113.386" fill="none" stroke="black"/>
+<text xml:space="preserve" x="448.033" y="52.7943" fill="black" font-size="13.5109" font-family="Helvetica">Entries </text>
+<text xml:space="preserve" x="517.884" y="52.7943" fill="black" font-size="13.5109" font-family="Helvetica"> 6043</text>
+<text xml:space="preserve" x="448.033" y="68.2264" fill="black" font-size="13.5109" font-family="Helvetica">Mean  </text>
+<text xml:space="preserve" x="510.574" y="68.2264" fill="black" font-size="13.5109" font-family="Helvetica">  684.2</text>
+<text xml:space="preserve" x="448.033" y="84.4708" fill="black" font-size="13.5109" font-family="Helvetica">Std Dev   </text>
+<text xml:space="preserve" x="510.574" y="83.6586" fill="black" font-size="13.5109" font-family="Helvetica">  504.7</text>
+<text xml:space="preserve" x="203.555" y="17.8688" fill="black" font-size="17.0471" font-family="Helvetica">Co_run1+2 left area4</text></svg>

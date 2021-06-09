@@ -24,35 +24,33 @@ vector<vector<Double_t>> fit_A_Co(){
         fill_cutting(hist_area4, file_name[i], 4);
     }
 
-    // initialize TF1 for PE
-    TF1* fl = new TF1("fl", "gaus", 1300, 1450);
-    TF1* fr = new TF1("fr", "gaus", 1500, 1700);
-    fl->SetParName(0, "Const");
-    fl->SetParName(1, "Mean");
-    fl->SetParName(2, "Sigma");
-    fr->SetParName(0, "Const");
-    fr->SetParName(1, "Mean");
-    fr->SetParName(2, "Sigma");
-    fl->SetParameters(100, 1350, 50);
-    fr->SetParameters(100, 1600, 100);
+    // initialize TF1 for PE (gaus + gaus)
+    TF1 * f_PE = new TF1("f_PE", "[0]*TMath::Gaus(x,[1],[2]) + [3]*TMath::Gaus(x,[4],[5])", 1300, 1700);
+    f_PE->SetParName(0, "Const_left");
+    f_PE->SetParName(1, "Mean_left");
+    f_PE->SetParName(2, "Sigma_left");
+    f_PE->SetParName(3, "Const_right");
+    f_PE->SetParName(4, "Mean_right");
+    f_PE->SetParName(5, "Sigma_right");
+    f_PE->SetParameters(100, 1350, 50, 100, 1600, 100);
+
 
     // execute fitting
-    hist_area4->Fit(fl, "R");
-    hist_area4->Fit(fr, "R+");
+    hist_area4->Fit(f_PE, "R");
 
     // fill data into hist_area1_l and _r
     for (int i=0; i<file_name.size(); i++){
         fill_selecting(
             hist_area1_l,
             file_name[i],
-            fl->GetParameter(1),
-            fl->GetParameter(2)
+            f_PE->GetParameter(1),
+            f_PE->GetParameter(2)
         );
         fill_selecting(
             hist_area1_r,
             file_name[i],
-            fr->GetParameter(1),
-            fr->GetParameter(2)
+            f_PE->GetParameter(4),
+            f_PE->GetParameter(5)
         );
     }
 
