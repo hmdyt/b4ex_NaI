@@ -48,5 +48,7 @@ void rootlogon(){
     loadMacro("src/main_mesurement/Na_C.C");
     loadMacro("src/main_mesurement/Na_A.C");
     loadMacro("src/main_mesurement/Na_AB_th2.C");
+    loadMacro("src/main_mesurement/Na_BC_th2.C");
+    loadMacro("src/main_mesurement/Na_AC_th2.C");
     loadMacro("src/main_mesurement/Na_ABC_th3.C");
 }
