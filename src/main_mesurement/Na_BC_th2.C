@@ -1,4 +1,4 @@
-void Na_AB_th2(){
+void Na_BC_th2(){
 	TString FILEPATH ="data/b4_2021_0603/";
 	vector<TString> tar_data_path = {
 		"Na_run04_change.root",
@@ -14,9 +14,9 @@ void Na_AB_th2(){
 
 	// set Branch address
 	Double_t detectorA, detectorB, detectorC;
-	chain->SetBranchAddress("area1", &detectorA);
+	//chain->SetBranchAddress("area1", &detectorA);
 	chain->SetBranchAddress("area2", &detectorB);
-	//chain->SetBranchAddress("area4", &C);
+	chain->SetBranchAddress("area4", &detectorC);
 
 	//histgram
 	//set parameter
@@ -28,32 +28,32 @@ void Na_AB_th2(){
 	int y_bin_max = 2500;
 	
 	//make hist
-	TH2D *hist = new TH2D("hist","Na (A and B) ;A_Energy[eV] ;B_Energy[eV]", x_total_bin, x_bin_min, x_bin_max, y_total_bin, y_bin_min,y_bin_max);
+	TH2D *hist = new TH2D("hist","Na (B and C) ;B_Energy[eV] ;C_Energy[eV]", x_total_bin, x_bin_min, x_bin_max, y_total_bin, y_bin_min,y_bin_max);
 
 	//fill
 	int n_entries = chain->GetEntries();
 	for(int j = 0; j<n_entries; j++){
 		chain->GetEntry(j);
-		hist->Fill(detectorA, detectorB);
+		hist->Fill(detectorB, detectorC);
 	}
 
 	//calibration
 	map<string, vector<Double_t>> cal = {
-		{"A", A()},
-		{"B", B()}
+		{"B", B()},
+		{"C", C()}
 	};
 	auto calc_kev = [](Double_t x, Double_t a, Double_t b){ return (x - b)/ a; };
 	hist->GetXaxis()->SetLimits(
-		calc_kev(x_bin_min, cal["A"][0], cal["A"][1]),
-		calc_kev(x_bin_max, cal["A"][0], cal["A"][1])
+		calc_kev(x_bin_min, cal["B"][0], cal["B"][1]),
+		calc_kev(x_bin_max, cal["B"][0], cal["B"][1])
 	);
 
 	hist->GetYaxis()->SetLimits(
-		calc_kev(y_bin_min, cal["B"][0], cal["B"][1]),
-		calc_kev(y_bin_max, cal["B"][0], cal["B"][1])
+		calc_kev(y_bin_min, cal["C"][0], cal["C"][1]),
+		calc_kev(y_bin_max, cal["C"][0], cal["C"][1])
 	);
 	auto c1 = new TCanvas();
 	hist->Draw();
 	hist->Draw("colz");
-	c1->SaveAs("./img/main_mesurement/Na_AB_th2.svg");
+	c1->SaveAs("./img/main_mesurement/Na_BC_th2.svg");
 }
