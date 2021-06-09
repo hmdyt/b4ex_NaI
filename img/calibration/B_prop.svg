@@ -4,8 +4,9 @@
 img/calibration/B_prop.svg
 </title>
 <desc>
-Creator: ROOT Version 6.22/08
-CreationDate: Wed Jun  9 12:42:00 2021</desc>
+Creator: ROOT Version 6.22/09
+CreationDate: Wed Jun  9 13:53:50 2021</desc>
+
 <defs>
 </defs>
 <rect x="0.5" y="0" width="566.929" height="385.804" fill="white"/>
@@ -99,6 +100,7 @@ CreationDate: Wed Jun  9 12:42:00 2021</desc>
 <g transform="rotate(-90,15.1199,106.401)">
 <text xml:space="preserve" x="15.1199" y="106.401" fill="black" font-size="12.8882" font-family="Helvetica"> ADC Value</text>
 </g>
+
 <path d="M211.7,254.58v -0.076143" fill="none" stroke="black"/>
 <path d="M210.076,254.504h 3.24888" fill="none" stroke="black"/>
 <path d="M211.7,254.58v 0.076143" fill="none" stroke="black"/>
